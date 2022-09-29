@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\bin\Debug\netcoreapp3.1\SynchronAsynchronThread.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\bin\Debug\netcoreapp3.1\SynchronAsynchronThread.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\bin\Debug\netcoreapp3.1\SynchronAsynchronThread.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\bin\Debug\netcoreapp3.1\SynchronAsynchronThread.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\bin\Debug\netcoreapp3.1\SynchronAsynchronThread.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\bin\Debug\netcoreapp3.1\SynchronAsynchronThread.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\SynchronAsynchronThread\obj\Debug\netcoreapp3.1\SynchronAsynchronThread.genruntimeconfig.cache

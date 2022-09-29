@@ -1,0 +1,9 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\bin\Debug\P133WinFormTask.exe.config
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\bin\Debug\P133WinFormTask.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\bin\Debug\P133WinFormTask.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\obj\Debug\P133WinFormTask.Form1.resources
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\obj\Debug\P133WinFormTask.Properties.Resources.resources
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\obj\Debug\P133WinFormTask.csproj.GenerateResource.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\obj\Debug\P133WinFormTask.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\obj\Debug\P133WinFormTask.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13329092022\P133WinFormTask\obj\Debug\P133WinFormTask.pdb
